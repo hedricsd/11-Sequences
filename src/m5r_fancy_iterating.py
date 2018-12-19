@@ -13,12 +13,12 @@ is different from:
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         and Sam Hedrick.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 ###############################################################################
-# TODO: 2. READ the program below and RUN it.
+# DONE: 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
 #   and you feel that you understand:
@@ -232,7 +232,7 @@ def run_test_sum_items_at_even_indices():
 
     print('Returned, expected:', total1, 14)
     print('Returned, expected:', total2, 19.5)
-
+    
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
