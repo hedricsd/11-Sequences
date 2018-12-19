@@ -21,7 +21,7 @@ def main():
 def run_test_count_negatives():
     """ Tests the   count_negatives   function. """
     # -------------------------------------------------------------------------
-    # TODO: 2. Implement this TEST function.
+    # DONE: 2. Implement this TEST function.
     #   It TESTS the  count_negatives  function defined below.
     #   Include at least ** 2 ** ADDITIONAL tests beyond those we wrote.
     #
@@ -328,7 +328,7 @@ def draw_circles(window, points, radius, color):
       :type color: str
     """
     # -------------------------------------------------------------------------
-    # TODO: 6. Implement and test this function.
+    # DONE: 6. Implement and test this function.
     #          Tests have been written for you (above).
     # -------------------------------------------------------------------------
 
