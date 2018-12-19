@@ -232,7 +232,7 @@ def run_test_sum_items_at_even_indices():
 
     print('Returned, expected:', total1, 14)
     print('Returned, expected:', total2, 19.5)
-    
+
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
